@@ -4,7 +4,7 @@
  
 🌱 Currently trying to learn coding and find software/people/hardware that can help me along the way 🌱
 
-📫 You can get in touch with me via Telegram [@X100_LOADING] and/or via email [jongee1@pm.me] 📫
+📫 You can get in touch with me via Telegram [t.me/CrossChainAlpha] and/or via email [jongee1@pm.me] 📫
 
 <!---
 jongee1/jongee1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
